@@ -1,0 +1,46 @@
+{
+    "name": "Federal Bureau of Investigation (FBI)",
+    "description": "<p>The Federal Bureau of Investigation (FBI) is the domestic intelligence and security service of the United States, which simultaneously serves as the nation's prime federal law enforcement agency. Operating under the jurisdiction of the U.S. Department of Justice, the FBI is concurrently a member of the U.S. Intelligence Community and reports to both the Attorney General and the Director of National Intelligence. A leading U.S. counterterrorism, counterintelligence, and criminal investigative organization, the FBI has jurisdiction over violations of more than 200 categories of federal crimes.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/2000px-US-FBI-ShadedSeal.svg.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "law enforcement",
+        "surveillance"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/federal-bureau-of-investigation-fbi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Federal Bureau of Investigation (FBI)",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/2000px-US-FBI-ShadedSeal.svg.png",
+            "humanURL": "https:\/\/www.fbi.gov\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/federal-bureau-of-investigation-fbi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.fbi.gov\/news"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/FBI"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.fbi.gov\/"
+        }
+    ]
+}
